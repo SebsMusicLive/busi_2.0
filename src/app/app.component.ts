@@ -5,11 +5,12 @@ import { FooterComponent } from "./footer/footer.component";
 import { InicioComponent } from "./inicio/inicio.component";
 import { SobreNosotrosComponent } from "./sobre-nosotros/sobre-nosotros.component";
 import { WhatsappComponent } from "./whatsapp/whatsapp.component";
+import { ContactanosComponent } from "./contactanos/contactanos.component";
 
 @Component({
   selector: 'app-root',
   standalone: true,
-  imports: [NavBarComponent, FooterComponent, InicioComponent, SobreNosotrosComponent, WhatsappComponent],
+  imports: [NavBarComponent, FooterComponent, InicioComponent, SobreNosotrosComponent, WhatsappComponent, ContactanosComponent],
   templateUrl: './app.component.html',
   styleUrl: './app.component.css'
 })
