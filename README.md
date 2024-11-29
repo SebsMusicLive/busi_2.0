@@ -1,5 +1,5 @@
 
-# **Proyecto Web con Node.js, Angular 17 y TailwindCSS**
+# **Proyecto Web Busi App hecho con Node.js, Angular 17 y TailwindCSS**
 
 ## **Requisitos**
 1. **Node.js**: Instálalo desde [nodejs.org](https://nodejs.org).  
