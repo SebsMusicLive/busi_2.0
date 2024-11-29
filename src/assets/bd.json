@@ -1,0 +1,21 @@
+{
+    "data":[
+        {
+            "empresa": "Trasan",
+            "rutas": 10
+        },
+        {
+            "empresa": "Trans Guasimales",
+            "rutas": 5
+        },
+        {
+            "empresa": "Trans Ontiveros",
+            "rutas": 15
+        },
+        {
+            "empresa": "Trans Bolivar",
+            "rutas": 20
+        }
+
+    ]
+}

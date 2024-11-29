@@ -7,11 +7,12 @@ import { SobreNosotrosComponent } from "./sobre-nosotros/sobre-nosotros.componen
 import { WhatsappComponent } from "./whatsapp/whatsapp.component";
 import { ContactanosComponent } from "./contactanos/contactanos.component";
 import { EstadisticasComponent } from "./estadisticas/estadisticas.component";
+import { HttpClientModule } from '@angular/common/http';
 
 @Component({
   selector: 'app-root',
   standalone: true,
-  imports: [NavBarComponent, FooterComponent, InicioComponent, SobreNosotrosComponent, WhatsappComponent, ContactanosComponent, EstadisticasComponent],
+  imports: [NavBarComponent, FooterComponent, InicioComponent, SobreNosotrosComponent, WhatsappComponent, ContactanosComponent, EstadisticasComponent, HttpClientModule],
   templateUrl: './app.component.html',
   styleUrl: './app.component.css'
 })
